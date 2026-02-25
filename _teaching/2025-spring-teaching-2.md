@@ -10,7 +10,7 @@ location: "Burnaby, Canada"
 ---
 
 
-Courses Taught :
+Courses
 ---
 
 
