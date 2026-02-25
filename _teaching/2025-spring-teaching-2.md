@@ -5,6 +5,7 @@ type: "Undergraduate courses"
 permalink: /teaching/2025-spring-teaching-2
 venue: "Simon Fraser University, Department of French"
 date: 2025-01-01
+excerpt: " "
 location: "Burnaby, Canada"
 ---
 
