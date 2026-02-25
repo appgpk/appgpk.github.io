@@ -2,7 +2,7 @@
 title: "Teaching Assistant — French"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/sfu-french-ta
+permalink: /teaching/2025-spring-teaching-2
 venue: "Simon Fraser University, Department of French"
 date: 2025-01-01
 location: "Burnaby, Canada"
