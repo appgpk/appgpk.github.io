@@ -11,6 +11,7 @@ location: "Burnaby, Canada"
 
 
 **Courses**
+
 I have been serving as a Teaching Assistant for the following courses:
 
 - FREN 101  
