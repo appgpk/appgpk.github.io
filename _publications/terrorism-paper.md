@@ -3,7 +3,6 @@ title: "Terrorism and Democracy"
 collection: publications
 category: manuscripts
 permalink: /publication/terrorism-paper
-date: 2015-10-01
 paperurl: 'https://academicpages.github.io/files/Terrorism___Democracy___BF.pdf'
 ---
 
