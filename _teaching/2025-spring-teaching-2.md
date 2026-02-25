@@ -9,15 +9,13 @@ location: "Burnaby, Canada"
 ---
 
 
-
-
-## Courses Taught
+## Courses Taught :
 I have been serving as a Teaching Assistant for the following courses:
 
 - FREN 101  
 - FREN 102  
 
-**Responsibilities**
+**Responsibilities:**
 
 - Graded assignments and examinations  
 - Held weekly office hours (1 hour per week)  
