@@ -8,10 +8,11 @@ date: 2021-01-01
 location: "Burnaby, Canada"
 ---
 
-Courses Taught:
+Courses Taught :
 ---
-fuckk
-I have served as a Teaching Assistant for the following courses:
+
+
+I have been serving as a Teaching Assistant for the following courses:
 
 - ECON 103  
 - ECON 105  
