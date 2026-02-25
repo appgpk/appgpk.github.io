@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Terrorism and Democracy"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This article examines the political consequences of terrorism in Burkina Faso. Using a dataset combining geolocated terrorist events from ACLED (from 2015 to 2024) with public opinion data from Afrobarometer, I compare the effect of successful terrorist attacks on public support for democracy and authoritarian alternatives. The results reveal that successful terrorist attacks significantly increase support for military regimes, one man regimes, and one party systems, while decreasing support for democratic governance. These changes are most pronounced immediately after the attacks and persist over time. This suggests that terrorism has triggered a trade-off in public preferences between security and freedom. The study also reveals that terrorism erodes perceptions of key democratic values, particularly civil liberties and freedom of movement. Robustness tests confirm that weak institutions or a lack of political knowledge are not driving the results. The article highlights how terrorism in fragile democracies can undermine democratic resilience and accelerate authoritarian drift.
