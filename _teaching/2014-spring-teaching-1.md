@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and Graduate Courses"
 permalink: /teaching/sfu-teaching-assistant
 venue: "Simon Fraser University, Department of Economics"
-date: 2024-01-01
+date: 2021-01-01
 location: "Burnaby, Canada"
 ---
 
