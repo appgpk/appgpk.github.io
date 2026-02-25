@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate and Graduate Courses"
-permalink: /teaching/sfu-teaching-assistant
+permalink: /teaching/2021-spring-teaching-1
 venue: "Simon Fraser University, Department of Economics"
 date: 2021-01-01
 location: "Burnaby, Canada"
