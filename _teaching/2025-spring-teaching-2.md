@@ -1,5 +1,4 @@
 ---
----
 title: "Teaching Assistant — French"
 collection: teaching
 type: "Undergraduate courses"
