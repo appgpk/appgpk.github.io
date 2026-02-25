@@ -4,6 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/terrorism-paper
 excerpt: " "
+venue: "Working paper"
+date: 2025-01-01
 paperurl: 'https://appgpk.github.io/files/Terrorism___Democracy___BF.pdf'
 ---
 
