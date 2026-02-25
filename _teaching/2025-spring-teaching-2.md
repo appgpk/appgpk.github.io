@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+---
+title: "Teaching Assistant — French"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/sfu-french-ta
+venue: "Simon Fraser University, Department of French"
+date: 2025-01-01
+location: "Burnaby, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Courses**
+I have been serving as a Teaching Assistant for the following courses:
 
-Heading 1
-======
+- FREN 101  
+- FREN 102  
 
-Heading 2
-======
+**Responsibilities**
 
-Heading 3
-======
+- Graded assignments and examinations  
+- Held weekly office hours (1 hour per week)  
+- Provided support to students on course material and written work
