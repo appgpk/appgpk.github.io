@@ -5,6 +5,7 @@ type: "Undergraduate and Graduate Courses"
 permalink: /teaching/2021-spring-teaching-1
 venue: "Simon Fraser University, Department of Economics"
 date: 2021-01-01
+excerpt: "ECON 103, 105, 331, 381, 837. Tutorials, office hours, grading."
 location: "Burnaby, Canada"
 ---
 
