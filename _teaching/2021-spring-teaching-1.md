@@ -7,6 +7,7 @@ venue: "Simon Fraser University, Department of Economics"
 date: 2021-01-01
 location: "Burnaby, Canada"
 ---
+**Courses:**
 
 I have served as a Teaching Assistant for the following courses:
 
