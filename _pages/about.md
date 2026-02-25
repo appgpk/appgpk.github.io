@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-About me : 
-------
 I’m Marie, a PhD Candidate in Economics at Simon Fraser University. My primary fields of interest are Development Economics and Behavioral Economics.
 
 My current research agenda has two main strands. First, I study how conflict shapes political preferences, with a particular focus on support for democracy in low-democracy contexts. Second, I am currently working on a paper that examines how belief systems influence economic and social decision-making in developing settings.
